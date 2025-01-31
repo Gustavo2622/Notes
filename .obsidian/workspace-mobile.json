@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fb00662af32c5ffc",
+        "id": "9505d5535a355a39",
         "type": "tabs",
         "children": [
           {
-            "id": "9b068d377280d176",
+            "id": "eed5b12aa9fc251e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "2024-12-10.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2024-12-10"
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
             }
           }
         ]
@@ -160,8 +160,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b068d377280d176",
+  "active": "eed5b12aa9fc251e",
   "lastOpenFiles": [
+    "000 Zettelkasten/Organization is a balancing act between storage and processing.md",
     "Excalidraw/Drawing 2024-12-10 13.04.01.excalidraw.md",
     "2024-12-10.md",
     "Excalidraw",
