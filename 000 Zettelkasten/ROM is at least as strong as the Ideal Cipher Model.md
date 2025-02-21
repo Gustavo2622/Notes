@@ -1,6 +1,6 @@
 202502131716
 
-Status: #idea
+Status: #theorem
 
 Tags: [[Cryptography]]
 
