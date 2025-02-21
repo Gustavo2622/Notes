@@ -1,10 +1,15 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 
-Status: #MOC
+Status: #theorem
+
 Tags:
 
 # {{title}}
 
+# Motivation
+# Examples
 
----
+# Proof
+# Corollaries
+
 # References
