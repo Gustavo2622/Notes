@@ -1,8 +1,10 @@
 202501302009
 
-Status: #idea #transient
+Status: #transient
 
-Tags: [[Learning]] 
+Tags: #idea #transient
+
+Top Links: [[Learning]] 
 
 # [[Mental Models]] become Mental Tools
 

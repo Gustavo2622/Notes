@@ -1,8 +1,10 @@
 202502131716
 
-Status: #theorem
+Status: #transient
 
-Tags: [[Cryptography]]
+Tags: #theorem
+
+Top Links: [[Cryptography]]
 
 # ROM is at least as strong as the Ideal Cipher Model
 

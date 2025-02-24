@@ -1,8 +1,10 @@
 202502012244
 
-Status: #idea
+Status: #transient
 
-Tags: [[Learning]]
+Tags: #idea
+
+Top Links: [[Learning]]
 
 # Tools are a means to execute actions
 

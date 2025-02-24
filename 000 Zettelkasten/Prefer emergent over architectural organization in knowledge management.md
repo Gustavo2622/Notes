@@ -1,8 +1,10 @@
 202502012309
 
-Status: #idea
+Status: #transient
 
-Tags: [[Learning]] [[Notes]]
+Tags: #idea
+
+Top Links: [[Learning]] [[Notes]]
 
 # Prefer emergent over architectural organization in knowledge management
 

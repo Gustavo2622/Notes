@@ -1,8 +1,8 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 
-Status: #definition
+Status: 
 
-Tags:
+Tags: #definition
 
 # {{title}}
 

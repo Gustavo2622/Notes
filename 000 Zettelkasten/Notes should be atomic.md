@@ -1,8 +1,10 @@
 202501302138
 
-Status: #idea
+Status: #transient
 
-Tags: [[Notes]]
+Tags: #idea
+
+Top Links: [[Notes]]
 
 # Notes should be atomic
 

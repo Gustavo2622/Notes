@@ -1,13 +1,13 @@
 202502211925
 
-Status: #book
+Status: #reading
 
-Tags: [[Maurer's Constructive Cryptography]] [[Cryptography]]
+Tags: #book
 
 # Constructive Cryptography - A New Paradigm for Security Definitions; Ueli Maurer
 
 - Authors: [[Ueli Maurer]]
-- Subject: [[Cryptographic Security Proofs]]
+- Subject: [[Cryptographic Security Proofs]] [[Cryptography]]
 - Date of publication: ???
 
 # Synopsis

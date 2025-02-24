@@ -1,8 +1,10 @@
 202502171744
 
-Status: #idea
+Status: #transient
 
-Tags: [[Learning]]
+Tags: #idea
+
+Top Links: [[Learning]]
 
 # Read multiple sources when learning a new subject
 

@@ -1,8 +1,8 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 
-Status: #MOC
-Tags:
+Status: 
 
+Tags: #MOC
 # {{title}}
 
 

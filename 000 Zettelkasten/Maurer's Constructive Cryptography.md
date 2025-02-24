@@ -1,8 +1,10 @@
 202502211856
 
-Status: #MOC
-Tags: [[Cryptography]]
+Status: 
 
+Tags: #MOC
+
+Top Links:[[Cryptography]]
 # Maurer's Constructive Cryptography
 
 ```ad-quote

@@ -1,8 +1,10 @@
 202502091623
 
-Status: #idea
+Status: #transient
 
-Tags: [[Learning]] [[ Problem Solving ]]
+Tags: #idea
+
+Top Links: [[Learning]] [[ Problem Solving ]]
 
 # Penultimate Step as a Problem Solving Tool
 

@@ -1,8 +1,10 @@
 202502131739
 
-Status: #definition
+Status: #transient
 
-Tags: [[Cryptography]]
+Tags: #definition
+
+Top Links: [[Cryptography]]
 
 # Indifferentiable Construction of Cryptographic Primitives
 

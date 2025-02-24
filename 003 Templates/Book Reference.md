@@ -1,8 +1,8 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 
-Status: #book
+Status: 
 
-Tags:
+Tags: #book
 
 # {{title}}
 

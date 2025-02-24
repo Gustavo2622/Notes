@@ -1,8 +1,8 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 
-Status: #theorem
+Status: 
 
-Tags:
+Tags: #theorem
 
 # {{title}}
 

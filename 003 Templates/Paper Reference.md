@@ -1,9 +1,8 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 
-Status: #book
+Status: 
 
-Tags:
-
+Tags: #paper
 # {{title}}
 
 - Authors:

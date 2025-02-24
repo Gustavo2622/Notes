@@ -1,9 +1,10 @@
 202501310013
 
-Status: #idea
+Status: #transient
 
-Tags: [[Organization]]
+Tags: #idea
 
+Top Links: [[Organization]]
 # Organization is a balancing act between storage and processing
 
 Good organization strikes a balance between allowing access to enough information and keeping enough out so that the access is quick and effortless.
