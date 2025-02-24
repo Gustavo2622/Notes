@@ -37,4 +37,4 @@ Presents the [[One-Time Pad]] and [[Additive Stream Cipher]] as motivating examp
 ---
 # References
 
-- https://crypto-test.ethz.ch/publications/files/Maurer11.pdf
+- [[ConstructiveCryptography_Maurer.pdf|Constructive Cryptography; Ueli Maurer]] (https://crypto-test.ethz.ch/publications/files/Maurer11.pdf)
